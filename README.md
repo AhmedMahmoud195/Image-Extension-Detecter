@@ -1,0 +1,1 @@
+# Image-Extension-Detecter
